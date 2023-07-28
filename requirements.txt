@@ -1,4 +1,4 @@
-langchain==0.0.244
+langchain==0.0.24
 PyPDF2==3.0.1
-python-dotenv==1.0.0
-streamlit==1.25.0
+python-dotenv==0.1.0
+streamlit==1.23.1
